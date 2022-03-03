@@ -14,6 +14,11 @@
 # limitations under the License.
 #
 
+# Device Version
+PLATFORM_VERSION := 11
+PLATFORM_VERSION_LAST_STABLE := 11
+
+# Device Path
 DEVICE_PATH := device/samsung/gts7xllite
 
 # Bootloader
