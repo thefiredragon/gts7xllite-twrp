@@ -14,6 +14,8 @@
 # limitations under the License.
 #
 
+DEVICE_PATH := device/samsung/gts7xllite
+
 # Bootloader
 BOARD_VENDOR := samsung
 TARGET_SOC := lito
