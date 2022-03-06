@@ -9,3 +9,10 @@ export ALLOW_MISSING_DEPENDENCIES=true
 lunch twrp_gts7xllite-eng
 mka recoveryimage
 ```
+
+## Install
+Flash latest release && vbmeta-disabled with odin and disable auto-reboot
+Reboot directly into recovery
+Terminal -> type "multidisabler"
+Format data, cache
+enjoy
